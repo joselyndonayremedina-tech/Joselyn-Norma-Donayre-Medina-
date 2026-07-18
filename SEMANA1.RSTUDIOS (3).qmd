@@ -1,0 +1,42 @@
+---
+title: "SEMANA 01  INSTALAR RSTUDIOS"
+author: "DONAYRE MEDINA JOSELYN NORMA"
+format: html
+editor: visual
+---
+
+## Instalación de R
+
+Primero, se ingresó a la página oficial de R mediante el enlace [R Project](https://www.r-project.org/?utm_source=chatgpt.com). En la ventana principal se hizo clic en la opción “Download R”. Luego, se seleccionó el servidor de descarga de Argentina: [CRAN Argentina Mirror](http://mirror.fcaglp.unlp.edu.ar/CRAN/?utm_source=chatgpt.com).
+
+Después, se hizo clic en “Download R for Windows” y posteriormente en la opción “base”, correspondiente a los archivos necesarios para instalar R por primera vez. Luego, se seleccionó “Download R-4.6.0 for Windows”, teniendo en cuenta que la versión puede cambiar con el tiempo debido a las actualizaciones del programa.
+
+Una vez descargado el archivo ejecutable, se inició la instalación aceptando todas las opciones predeterminadas hasta completar el proceso. Finalmente, se abrió el programa para comprobar que estuviera correctamente instalado y luego se cerró.
+
+## Instalación de RSTUDIOS
+
+Se realizó la instalación de RStudio ingresando a la página oficial de [Posit](https://posit.co/?utm_source=chatgpt.com). Dentro de la pestaña “Open Source”, se buscó la opción “RStudio IDE”.
+
+Luego, se descendió hasta encontrar “Download RStudio Desktop”, donde se hizo clic en “Download RStudio” y posteriormente en “Download RStudio Desktop for Windows”. Después de descargar el archivo instalador, se ejecutó y se aceptaron todas las opciones predeterminadas hasta finalizar la instalación.
+
+Finalmente, se abrió RStudio para verificar que funcionara correctamente.
+
+El licenciado también explicó las principales ventanas de trabajo de RStudio:
+
+- **Ventana de edición:** Permite escribir y guardar códigos de R, funcionando de manera similar a un documento de texto.
+
+- **Consola:** Es el espacio donde se ejecutan los comandos y donde se procesan las instrucciones de R.
+
+- **Ambiente:** Muestra los objetos y datos creados dentro de RStudio junto con sus características.
+
+- **Ayuda, paquetes, gráficos, tablas y archivos:** Permite visualizar gráficos generados, paquetes instalados, archivos guardados y herramientas de ayuda.
+
+## Creación de un Proyecto en RStudio
+
+Durante la clase, tambien el licenciado nos explicó la importancia de trabajar de forma organizada mediante la creación de un proyecto (Project) en RStudio. Un proyecto funciona como una carpeta donde se almacenan todos los archivos relacionados con un trabajo.
+
+Para crear el proyecto, primero se ubicó la opción “Project: (None)” en la parte superior derecha de RStudio. Luego, se hizo clic en “New Project”. Después apareció una ventana emergente donde se seleccionó la opción “New Directory” y posteriormente “New Project”.
+
+El licenciado indicó que debíamos colocar nuestro nombre para identificar el proyecto, por ejemplo: “Joselyn Donayre RStudio” o "Joselyn Donayre Sistematización y Metodos Estadísticos" . Luego, mediante la opción “Browse”, se eligió una ubicación accesible para guardar el proyecto, recomendándose la carpeta “Documentos” de la computadora.
+
+Finalmente, se hizo clic en “Create Project” y se verificó que el proyecto se hubiera creado correctamente.
